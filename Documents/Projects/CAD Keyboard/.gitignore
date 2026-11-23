@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Editor history
+.history/
+
+# KiCad
+*.kicad_prl
+*-backups/
+_autosave-*
+*.lck
+fp-info-cache
+*.bak
+*-bak
+
+# FreeCAD backups
+*.FCBak
+*.FCStd1

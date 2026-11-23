@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "freecad": {
+      "command": "/opt/homebrew/bin/uvx",
+      "args": ["freecad-mcp"]
+    }
+  }
+}
